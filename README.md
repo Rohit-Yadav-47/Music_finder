@@ -1,5 +1,7 @@
 # 🎵 SONG RADAR
 
+https://music-finder.streamlit.app/
+
 A powerful music discovery and identification app that combines audio recognition, lyrics search, and AI-powered music recommendations.
 
 ## ✨ Features
