@@ -125,9 +125,3 @@ Example questions:
 - ACRCloud for audio recognition
 - LRCLIB for lyrics database
 - Groq for AI conversations
-
-## 🤝 Contributing
-Contributions are welcome! Please feel free to submit pull requests.
-
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
