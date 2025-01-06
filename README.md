@@ -71,9 +71,19 @@ pip install -r requirements.txt
 
 3. Set up your API keys in `.env`:
 ```env
-ACCESS_KEY=your_acrcloud_access_key
-ACCESS_SECRET=your_acrcloud_access_secret
-GROQ_API_KEY=your_groq_api_key
+# ACRCloud Credentials
+ACCESS_KEY=""
+ACCESS_SECRET=""
+
+# MusixMatch API
+MUSIXMATCH_API_KEY=""
+
+# ACRCloud Token
+ACRCLOUD_TOKEN=""
+
+# Groq API Key
+GROQ_API_KEY=""
+
 ```
 
 4. Run the app:
